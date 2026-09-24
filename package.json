@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "description": "when is ethereum cheapest? base fee by hour of day over the last week, in the browser or node. zero dependencies, public rpc, no keys.",
   "keywords": ["ethereum", "gas", "base fee", "eip-1559", "eth_feeHistory", "json-rpc"],
-  "homepage": "https://github.com/alinaschanz/gasweek-js#readme",
-  "bugs": "https://github.com/alinaschanz/gasweek-js/issues",
+  "homepage": "https://github.com/AlinaSchan/gasweek-js#readme",
+  "bugs": "https://github.com/AlinaSchan/gasweek-js/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alinaschanz/gasweek-js.git"
+    "url": "git+https://github.com/AlinaSchan/gasweek-js.git"
   },
   "license": "MIT",
   "author": "Alina Schanz <hello@alinaschanz.life> (https://alinaschanz.life)",

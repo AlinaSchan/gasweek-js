@@ -2,7 +2,7 @@
 
 when is ethereum cheapest? the base fee by hour of day over the last week, from a public
 json-rpc endpoint, in the browser or in node. zero dependencies, no keys. the typescript twin of
-[gasweek](https://github.com/alinaschanz/gasweek), same pages, same interpolation, same percentiles.
+[gasweek](https://github.com/AlinaSchan/gasweek), same pages, same interpolation, same percentiles.
 
 ## install
 
@@ -10,7 +10,7 @@ json-rpc endpoint, in the browser or in node. zero dependencies, no keys. the ty
 npm install gasweek
 ```
 
-or straight from the repository: `npm install github:alinaschanz/gasweek-js`.
+or straight from the repository: `npm install github:AlinaSchan/gasweek-js`.
 
 ## use
 
@@ -52,8 +52,8 @@ npm test        # tsc, then node --test on the compiled output
 
 ## see also
 
-- [gasweek](https://github.com/alinaschanz/gasweek), the python original, with the daily dataset and the svg chart
-- [onchain-notes](https://github.com/alinaschanz/onchain-notes), the daily card
+- [gasweek](https://github.com/AlinaSchan/gasweek), the python original, with the daily dataset and the svg chart
+- [onchain-notes](https://github.com/AlinaSchan/onchain-notes), the daily card
 
 ## license
 
